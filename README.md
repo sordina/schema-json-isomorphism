@@ -1,10 +1,6 @@
 # schema-json-isomorphism
 
-A Clojure library designed to ... well, that part is up to you.
-
-## Usage
-
-FIXME
+<https://github.com/prismatic/schema> <=> <http://json.org/>
 
 ## License
 
